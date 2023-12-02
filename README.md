@@ -99,7 +99,19 @@ filetree
 
 ### 内容一
 
-> 📕 内容 1
+> 📕 内容 1 <strong>dev</strong>开头是开发模式,<strong>build</strong>开头是打包模式,冒号后面对应的<strong>dev/test/pre/prod</strong>是对应的业务环境的<strong>开发/测试/预测/正式</strong>环境。
+
+- 运行<strong>pnpm run build:dev</strong>打包
+
+```shell
+pnpm run build:dev
+```
+
+- 借助<strong>serve -s dist</strong>启动后在浏览器查看
+
+```shell
+serve -s dist
+```
 
 ### 内容二
 
