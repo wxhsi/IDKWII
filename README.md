@@ -125,17 +125,17 @@ dependencies:(生产环境)
 
 devDependencies:(开发环境)
 
-- @babel/core 7.23.5: <strong> babel </strong>编译的核心包
-- @babel/preset-env 7.23.5: <strong> babel </strong>编译的预设,可以转换目前最新的<strong> js </strong>标准语法
-- @babel/preset-react 7.23.3: 识别<strong> jsx </strong>语法
-- @babel/preset-typescript 7.23.3: <strong> loader </strong>的预设,先将<strong> ts </strong>语法转换为<strong> js </strong>语法
-- @pmmmwh/react-refresh-webpack-plugin 0.5.11: 该插件可以在不需要刷新浏览器的前提下模块热更新,并且能够保留<strong> react </strong>组件的状态。
+- @babel/core 7.23.5 #<strong> babel </strong>编译的核心包
+- @babel/preset-env 7.23.5 #<strong> babel </strong>编译的预设,可以转换目前最新的<strong> js </strong>标准语法
+- @babel/preset-react 7.23.3 #识别<strong> jsx </strong>语法
+- @babel/preset-typescript 7.23.3 #<strong> loader </strong>的预设,先将<strong> ts </strong>语法转换为<strong> js </strong>语法
+- @pmmmwh/react-refresh-webpack-plugin 0.5.11 #该插件可以在不需要刷新浏览器的前提下模块热更新,并且能够保留<strong> react </strong>组件的状态。
 - @types/react 18.2.39
 - @types/react-dom 18.2.17
 - autoprefixer 10.4.16
 - babel-loader 9.1.3
 - copy-webpack-plugin 11.0.0
-- core-js 3.33.3: 使用低版本<strong> js </strong>语法模拟高版本的库,也就是垫片
+- core-js 3.33.3 #使用低版本<strong> js </strong>语法模拟高版本的库,也就是垫片
 - cross-env 7.0.3
 - css-loader 6.8.1
 - html-webpack-plugin 5.5.3
@@ -143,7 +143,7 @@ devDependencies:(开发环境)
 - less-loader 11.1.3
 - mini-css-extract-plugin 2.7.6
 - postcss-loader 7.3.3
-- react-refresh 0.14.0: <strong> @pmmmwh/react-refresh-webpack-plugin </strong>插件的依赖
+- react-refresh 0.14.0 #<strong> @pmmmwh/react-refresh-webpack-plugin </strong>插件的依赖
 - speed-measure-webpack-plugin 1.5.0
 - style-loader 3.3.3
 - thread-loader 4.0.2
