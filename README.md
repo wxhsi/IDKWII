@@ -18,12 +18,13 @@
   - [项目初始化](#项目初始化)
   - [技术选型](#技术选型)
 - [文件目录说明](#文件目录说明)
-- [开发的架构](#开发的架构)
-- [部署](#部署)
-- [使用到的框架](#使用到的框架)
+- [内容 1](#内容1)
+- [内容 2](#内容2)
+- [内容 3](#内容3)
 - [作者](#作者)
+- [版权说明](#版权说明)
 
-### 📔 上手指南
+### :notebook_with_decorative_cover: 上手指南
 
 > `front_blog`是基于`React`实现的一个前端博客，计划实现博客文章功能
 
@@ -51,13 +52,13 @@
 > 主要采用 react18+ts4 进行开发
 
 - <strong>开发工具 IDE :</strong> [VsCode](https://code.visualstudio.com/)
-- <strong>开发环境 :</strong> windows10，nodejs v20.10.0
+- <strong>开发环境 :</strong> windows10，[nodejs v20.10.0](https://nodejs.org/en)
 - <strong>生产环境 :</strong> ——————
-- <strong>前端框架 :</strong> React18(基于客户端渲染,SPA)
+- <strong>前端框架 :</strong> [React18 基于客户端渲染,SPA](https://zh-hans.react.dev/blog/2022/03/29/react-v18)
 - <strong>服务端渲染框架 :</strong> 考虑后期客户端改服务端
 - <strong>状态管理 :</strong> ——————
-- <strong>UI 组件库 :</strong> 基于 ReactUI 框架:阿里 AntDesign(暂定)
-- <strong>自动化打包工具 :</strong> WebPack5
+- <strong>UI 组件库 :</strong> [基于 ReactUI 框架:阿里 AntDesign,暂定](https://ant.design/components/overview-cn)
+- <strong>自动化打包工具 :</strong> [WebPack5](https://webpack.docschina.org/blog/2020-10-10-webpack-5-release/)
 - <strong>微信小程序 :</strong> ——————
 
 1. Get a free API Key at [https://example.com](https://example.com)
@@ -94,17 +95,15 @@ filetree
 
 ```
 
-### 📕 开发的架构
+### 📕 内容 1
 
-### 📗 部署
+### 📗 内容 2
 
-pnpm
+### 📙 内容 3
 
-### 📙 使用到的框架
-
-- [xxxxxxx](https://getbootstrap.com)
-- [xxxxxxx](https://jquery.com)
-- [xxxxxxx](https://laravel.com)
+- [xxxxxxx]()
+- [xxxxxxx]()
+- [xxxxxxx]()
 
 ### 🐸 版本控制
 
