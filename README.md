@@ -1,45 +1,22 @@
 # 2024_front_blog
 
-✨ 自用前端模板 ✨
+✨ 自用前端 WebPack5 打包模板 ✨
 
 <!-- 项目栏 -->
 
 ![github license](https://img.shields.io/github/license/wxhsi/front_blog)
-![github license](https://img.shields.io/github/forks/wxhsi/front_blog)
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][https://img.shields.io/github/forks/wxhsi/front_blog]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+![Watchers](https://img.shields.io/github/watchers/wxhsi/front_blog)
+![Forks](https://img.shields.io/github/forks/wxhsi/front_blog)
+![Stars](https://img.shields.io/github/stars/wxhsi/front_blog)
 ![wanyu](https://img.shields.io/badge/%F0%9F%8D%8A%E4%BD%9C%E8%80%85-wanyu-orange)
 
 <br />
 
-<h3 align="center">📝技术栈罗列</h3>
-<br />
-  <p align="center">
-    <a><strong>1️⃣开发工具IDE:</strong>· VsCode ·</a> 
-    <a><strong>2️⃣开发环境:</strong>· windows10，nodejs v20.10.0 ·</a>  
-    <a><strong>3️⃣生产环境:</strong>· -- ·</a> 
-    <a><strong>4️⃣前端框架:</strong>· React18(基于客户端渲染,SPA) ·</a> 
-    <a><strong>5️⃣服务端渲染框架(考虑后期客户端修改服务端):</strong>
-    · 修改原因为:
-    1.首屏加载时间过长 
-    2.不利于SEO ·</a> 
-    <a><strong>6️⃣状态管理:</strong>· -- ·</a> 
-    <a><strong>7️⃣UI 组件库: </strong>· 基于ReactUI框架:阿里AntDesign(暂定) ·</a> 
-    <a><strong>8️⃣自动化打包工具: </strong>· WebPack5 ·</a> 
-    <a><strong>9️⃣微信小程序: </strong>· -- ·</a> 
-    
-  </p>
-
 ## 📚 目录
 
 - [上手指南](#上手指南)
-  - [开发前的配置要求](#开发前的配置要求)
-  - [安装步骤](#安装步骤)
+  - [项目初始化](#项目初始化)
+  - [技术选型](#技术选型)
 - [文件目录说明](#文件目录说明)
 - [开发的架构](#开发的架构)
 - [部署](#部署)
@@ -48,24 +25,45 @@
 
 ### 📔 上手指南
 
+> `front_blog`是基于`React`实现的一个前端博客，计划实现博客文章功能
+
 暂无
 
-###### 🌋 开发前的配置要求
+###### 🌋 项目初始化
+
+> 推荐使用 pnpm 进行下载；
+
+```shell
+  git clone https://github.com/wxhsi/front_blog
+  cd  front_blog
+  pnpm install
+  pnpm run dev:dev
+```
+
+> 访问 Http://localhost:3000 进入项目
 
 1. xxxxx x.x.x
 2. xxxxx x.x.x
 3. xxxxx x.x.x
 
-###### 🏔 **安装步骤**
+###### 🏔 **技术选型**
+
+> 主要采用 react18+ts4 进行开发
+
+- <strong>开发工具 IDE :</strong> [VsCode](https://code.visualstudio.com/)
+- <strong>开发环境 :</strong> windows10，nodejs v20.10.0
+- <strong>生产环境 :</strong> ——————
+- <strong>前端框架 :</strong> React18(基于客户端渲染,SPA)
+- <strong>服务端渲染框架 :</strong> 考虑后期客户端改服务端
+- <strong>状态管理 :</strong> ——————
+- <strong>UI 组件库 :</strong> 基于 ReactUI 框架:阿里 AntDesign(暂定)
+- <strong>自动化打包工具 :</strong> WebPack5
+- <strong>微信小程序 :</strong> ——————
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
 
-```sh
-git clone https://github.com/shaojintian/Best_README_template.git
-```
-
-### 📕 文件目录说明
+### 📘 文件目录说明
 
 ```
 filetree
@@ -96,13 +94,13 @@ filetree
 
 ```
 
-### 📘 开发的架构
+### 📕 开发的架构
 
-### 📙 部署
+### 📗 部署
 
 pnpm
 
-### 📗 使用到的框架
+### 📙 使用到的框架
 
 - [xxxxxxx](https://getbootstrap.com)
 - [xxxxxxx](https://jquery.com)
@@ -114,7 +112,7 @@ pnpm
 
 ### 🧚‍♀️ 作者
 
-wanyu
+🍊🍊🍊
 
 ### 👾 版权说明
 
