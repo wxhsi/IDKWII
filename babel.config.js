@@ -4,6 +4,7 @@
 // 是因为可以访问到process.env.NODE_ENV环境变量来区分是开发还是打包模式。
 
 const isDEV = process.env.NODE_ENV === "development"; // 是否是开发模式
+
 module.exports = {
   presets: [
     [
