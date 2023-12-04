@@ -26,19 +26,19 @@
 
 ### 上手指南
 
-> 📚 `front_blog`是基于`React`实现的一个前端博客，计划实现博客文章功能。当然目前还没写呢...
+> 📚 `webpack5_react18_ts-env`是`webpack5`搭建 react18+ts 开发和打包环境
 
-暂无
+reademe 后面内容是另一个项目的模板，可忽略
 
 ###### 项目初始化
 
 > 🌋 推荐使用 pnpm 进行下载；
 
 ```shell
-  git clone https://github.com/wxhsi/front_blog
-  cd  front_blog
+  git clone https://github.com/wxhsi/webpack5_react18_ts-env
+  cd  webpack5_react18_ts-env
   pnpm install
-  pnpm run dev:dev
+  pnpm run build:dev
 ```
 
 > 访问 Http://localhost:3000 进入项目
